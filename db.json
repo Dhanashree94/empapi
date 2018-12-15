@@ -1,0 +1,75 @@
+{
+    "empdetails": [
+{
+    "id" : 112,
+    "name" : "Ramesh",
+    "email" : "ramesh@gmail.com",
+    "mobile no" : "9945768325",
+    "img" : "https://bit.ly/2LjCHyc",
+    "gender" : "male",
+    "dob" : "11/12/1996",
+    "account details" : "1222356432,ZYZD01222,SB,ZYX Bank,Bangalore",
+    "address" : "1222,3rd cross,12th main,Basaveshwara nagar,Bangalore",
+    "salary" : [
+        {
+            "basic":32222,
+            "hra" : 5699,
+            "ta" :1224,
+            "da" :3000,
+            "tax" : 7.7,
+            "ins" : 6.75,
+            "pf"   : 8.75
+
+        }
+    ]
+},
+{
+    "id" : 113,
+    "name" : "Dhanashree",
+    "email" : "dhanashree@gmail.com",
+    "mobile no" : "9945768326",
+    "img" : "https://bit.ly/2LjCHyc",
+    "gender" : "female",
+    "dob" : "10/12/1995",
+    "account details" : "1222356567,ZYZD01222,SB,ZYX Bank,Bangalore",
+    "address" : "1222,3rd cross,12th main,Basaveshwara nagar,Bangalore",
+    "salary" : [
+        {
+            "basic":42222,
+            "hra" : 5699,
+            "ta" :1224,
+            "da" :3000,
+            "tax" : 7.7,
+            "ins" : 6.75,
+            "pf"   : 8.75
+
+        }
+    ]
+},
+{
+    "id" : 115,
+    "name" : "vinay",
+    "email" : "vinay@gmail.com",
+    "mobile no" : "9945768456",
+    "img" : "https://bit.ly/2LjCHyc",
+    "gender" : "male",
+    "dob" : "11/10/1994",
+    "account details" : "1222356465,ZYZD01222,SB,ZYX Bank,Bangalore",
+    "address" : "1222,3rd cross,12th main,Basaveshwara nagar,Bangalore",
+    "salary" : [
+        {
+            "basic":52222,
+            "hra" : 5699,
+            "ta" :1224,
+            "da" :3000,
+            "tax" : 7.7,
+            "ins" : 6.75,
+            "pf"   : 8.75
+
+        }
+    ]
+}
+
+
+    ]
+}
